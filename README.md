@@ -1,8 +1,8 @@
-# Clashly Bot
+# Clashly BOT
 
-Official release page for **Clashly Bot**.
+Official release page for **Clashly BOT**.
 
-**Clashly Bot** is a Windows desktop app created to help Clash of Clans players automate routine in-game actions and manage farming tasks more easily.
+**Clashly BOT** is a Windows desktop app created to help Clash of Clans players automate routine in-game actions and manage farming tasks more easily.
 
 ## What It Does
 
@@ -23,12 +23,12 @@ The latest version is available in the **Releases** section:
 
 ## Updates
 
-The app can check for new versions directly from inside Clashly Bot.
+The app can check for new versions directly from inside Clashly BOT.
 
 When an update is available, you will see an update window in the app with options to download and install the newest version.
 
 ## Safety
 
-Only download Clashly Bot from this official release page.
+Only download Clashly BOT from this official release page.
 
 Avoid files shared through unofficial links, modified installers, or unknown sources.
